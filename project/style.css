@@ -1,0 +1,22 @@
+#main_title {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    letter-spacing: 2px;
+    font-weight: 500;
+}
+.person{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.add_student{
+    background-color: blue;
+    text-decoration: none;
+    color: white;   
+}
+
+
+
+
